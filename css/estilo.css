@@ -1,0 +1,20 @@
+#capa1 {
+	position: absolute;
+	background-color: red;
+	color:#100F0F;
+	width: 300px;
+	height: 300px;
+	top: 400px;
+	left: 400px;
+	
+}
+
+#capa1:hover {
+	animation: move 3000ms ease;
+}
+
+@keyframes move {
+	10% {transform: translate(-300px, -300px);}
+	50% {opacity: 1;}
+	100% {opacity: 0;transform: translate(-300px, -300px);}
+}

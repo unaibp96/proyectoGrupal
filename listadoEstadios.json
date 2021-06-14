@@ -1,0 +1,42 @@
+{
+  "listadoEstadios": {
+    "estadio": [
+      {
+        "nombre": "Vicente",
+        "apellidos": "Calderon",
+        "Informacion": [
+          "Apertura el 2 de octubre de 1966",
+          "Capacidad: 54.907 espectadores",
+          "Dimensiones: 105 x 68 m",
+          "Superficie: Césped",
+          "Propietario: Club Atlético de Madrid",
+          "Coste: 451.000.000 pts"
+        ]
+      },
+      {
+        "nombre": "Benito",
+        "apellidos": "Villamarín",
+        "Informacion": [
+          "Apertura el 17 de marzo de 1929",
+          "Capacidad: 60.721​ espectadores",
+          "Dimensiones: 105 x 68 m",
+          "Superficie: Césped",
+          "Propietario: Real Betis Balompié",
+          "Coste: 120.000.000 €"
+        ]
+      },
+      {
+        "nombre": "Anfield",
+        "apellidos": "Stadium",
+        "Informacion": [
+          "Apertura el 28 de septiembre de 1884",
+          "Capacidad: 54.074 espectadores",
+          "Dimensiones: 101 x 68 m",
+          "Superficie: Césped",
+          "Propietario: Liverpool Football Club",
+          "Coste: 18 mil millones de dólares"
+        ]
+      }
+    ]
+  }
+}
